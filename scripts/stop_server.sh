@@ -1,2 +1,2 @@
 #!/bin/bash
-lsof -t -i:8080 | xargs -r kill
+lsof -t -i:8000 | xargs -r kill
